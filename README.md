@@ -1,6 +1,5 @@
 # NLP-text-classification
 
-## Linear_Regression_project
 Project is from the Udemy course: 2022 Python for Machine Learning & Data Science Masterclass
 
 ## Purpose of Project
